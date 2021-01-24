@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vicara</string>
+    <string name="bluetooth_stat">STATUS: Getting Bluetooth status</string>
+    <string name="Network_stat">Getting Network status</string>
+    <string name="current_mobile">MOBILE DATA CONNECTED</string>
+    <string name="current_wifi">WIFI CONNECTED</string>
+    <string name="network_no">NO NETWORK CONNECTED</string>
+    <string name="blue_on">STATUS: BLUETOOTH IS ON</string>
+    <string name="blue_off">STATUS: BLUETOOTH IS OFF</string>
+</resources>
